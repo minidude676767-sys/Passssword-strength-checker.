@@ -1,4 +1,4 @@
-# Password Strength Checker
+
 
 A beginner Python project that checks how strong a password is.
 It checks length, uppercase and lowercase letters, numbers and symbols,
